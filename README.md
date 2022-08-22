@@ -1,7 +1,7 @@
 # Law Home Page
 Webpage built using HTML &amp; CSS without any frameworks.
 ## While building this page--Learnt:
-- How to fix an image at the bottom of the page one using positioning.
+- How to fix an image at the bottom of the page using positioning.
 - Learned about positions: absolute, relative and fixed.
 
 ## Time taken for completion:
